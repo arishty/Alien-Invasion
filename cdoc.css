@@ -1,0 +1,117 @@
+			body {
+				background-color: black;
+				
+				
+			}
+			h1 {
+				
+				/*text-align:center;*/
+				background-color: black; /*#4d004d;*/
+				padding: 30px;
+				border: 5px dotted lime;
+				color: lime;
+				font-family: courier new;
+				/*width: 1200px;
+				/*left:50%;*/
+			}
+			h2 {
+				color: lime;
+				font-family: courier new;
+				font-size: 31px;
+				
+			}
+			h3{
+				text-align: center;
+				background-color: #333333;
+				padding:10px;
+				border: 5px solid lime;
+				position: relative;
+				color: lime;
+				font-family: courier new;
+				width: 200px;
+			}
+			h4{
+				text-align: center;
+				background-color: #4d004d;
+				padding:10px;
+				border: 5px dashed lime;
+				position: relative;
+				color: lime;
+				font-family: courier new;
+				width: 200px;
+			}
+			ul {
+				list-style-image:url(alienbullet.png);
+				color: white;
+				font-family: courier new;
+				font-size: 25px;
+				
+			}
+			ul li{
+				margin: 5px;
+			}
+			
+			ol {
+				color: white;
+				font-family: courier new;
+				font-size: 25px;
+				left: 25px;
+				position: relative;
+			}
+			ol li{
+				margin: 5px;
+			}
+			
+			p {	
+				color:white;
+				font-family: courier new;
+				font-size: 25px;
+			}
+			
+			h3:hover{
+				background-color: lime;
+				color: #333333;
+			}
+			a:link{
+				color: lime;
+				text-decoration: none;
+			}
+			a:visited{
+				color: lime;
+				text-decoration: none;
+			}
+			a:hover{
+				background-color: lime;
+				color: black;
+			}
+			
+			img{
+				max-height:400px;
+				max-width:400px;
+			}
+			
+			#next {
+				position: relative;
+				left: 260px; /*225px makes them touch*/
+				bottom: 71px;
+			}
+			
+			#topic {
+				font-family: "Comic Sans MS", cursive, sans-serif;
+				
+			}
+			
+			#clickimg{
+				position: relative;
+				left: 420px;
+				bottom: 190px;
+			}
+			
+			.red { color: red; }
+			.purple {background-color: purple;}
+			
+			
+			
+			
+			
+			
